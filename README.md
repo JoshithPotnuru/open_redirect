@@ -3,6 +3,9 @@ Welcome to **ApexPortal**, an enterprise single sign-on (SSO) identity portal si
 
 ---
 
+## Link to the Presentation:
+https://drive.google.com/file/d/1BS1qWFhWG6IEpETBlCRGajnCRTePd3fG/view?usp=drive_link
+
 ## 📌 Vulnerability Overview: What is an Open Redirect?
 An **Open Redirect** vulnerability occurs when a web application accepts a user-controlled URL as input (often through query parameters like `?redirect=...` or `?next=...`) and redirects the user's browser to that URL without proper sanitization.
 
